@@ -1,6 +1,6 @@
 using System;
 
-namespace StartingPoint
+namespace VideoArchives
 {
 	/// <summary>
 	/// Rental represents a customer renting a movie.

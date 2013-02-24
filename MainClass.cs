@@ -1,6 +1,6 @@
 using System;
 
-namespace StartingPoint
+namespace VideoArchives
 {
 	/// <summary>
 	/// Summary description for Class1.

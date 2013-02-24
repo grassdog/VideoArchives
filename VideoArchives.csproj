@@ -9,14 +9,14 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ApplicationIcon>App.ico</ApplicationIcon>
     <AssemblyKeyContainerName />
-    <AssemblyName>StartingPoint</AssemblyName>
+    <AssemblyName>VideoArchives</AssemblyName>
     <AssemblyOriginatorKeyFile />
     <DefaultClientScript>JScript</DefaultClientScript>
     <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
     <DefaultTargetSchema>IE50</DefaultTargetSchema>
     <DelaySign>false</DelaySign>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>StartingPoint</RootNamespace>
+    <OutputType>Library</OutputType>
+    <RootNamespace>VideoArchives</RootNamespace>
     <StartupObject />
     <FileUpgradeFlags>
     </FileUpgradeFlags>

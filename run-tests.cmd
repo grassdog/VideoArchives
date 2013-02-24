@@ -11,5 +11,5 @@ echo Building the project
 
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\msbuild.exe .\VideoArchives.sln /v:n /p:Configuration=Debug /p:WarningLevel=0
 
-.\VideoArchives\vendor\NUnit-2.6.2\bin\nunit-console.exe .\VideoArchives\bin\Debug\VideoArchives.dll /config=Debug /framework=4.0 /nologo /noshadow /result:.\nunitResults.xml
+.\vendor\NUnit-2.6.2\bin\nunit-console.exe .\bin\Debug\VideoArchives.dll /config=Debug /framework=4.0 /nologo /noshadow /result:.\nunitResults.xml
 

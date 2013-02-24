@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace StartingPoint
+namespace VideoArchives
 {
 	/// <summary>
 	/// Customer represents a customer of the store.

@@ -1,10 +1,10 @@
 using System;
 using NUnit.Framework;
 
-namespace StartingPoint
+namespace VideoArchives
 {
 	/// <summary>
-	/// Unit tests for StartingPoint project.
+	/// Unit tests for VideoArchives project.
 	/// </summary>
 	[TestFixture]
 	public class UnitTests
