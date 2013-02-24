@@ -3,13 +3,10 @@ using System;
 namespace VideoArchives
 {
 	/// <summary>
-	/// Summary description for Class1.
+	/// This class acts as an example of how to use the video archives library.
 	/// </summary>
-	class MainClass
+	class ExampleClient
 	{
-		/// <summary>
-		/// The main entry point for the application.
-		/// </summary>
 		[STAThread]
 		static void Main(string[] args)
 		{
