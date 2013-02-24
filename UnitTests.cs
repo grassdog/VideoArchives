@@ -3,14 +3,9 @@ using NUnit.Framework;
 
 namespace VideoArchives
 {
-	/// <summary>
-	/// Unit tests for VideoArchives project.
-	/// </summary>
 	[TestFixture]
 	public class UnitTests
 	{
-		/* Fields */
-
 		// Movies
 		Movie cinderella;
 		Movie starWars;
@@ -25,8 +20,6 @@ namespace VideoArchives
 		Customer mickeyMouse;
 		Customer donaldDuck;
 		Customer minnieMouse;
-
-		/* Methods */
 
 		[SetUp]
 		public void Init()
@@ -129,6 +122,5 @@ namespace VideoArchives
 			Assert.AreEqual("Gladiator", results[8]);
 			Assert.AreEqual(15, Convert.ToDouble(results[9]));
 		}
-
 	}
 }
